@@ -1,0 +1,397 @@
+Customer number: 1
+Arrival time: 1
+Waiting time: 0
+Services Time: 8
+Finished time: 9
+Teller: 1
+Account Type: VIP
+
+Customer number: 2
+Arrival time: 2
+Waiting time: 0
+Services Time: 1
+Finished time: 3
+Teller: 2
+Account Type: Regular
+
+Customer number: 3
+Arrival time: 3
+Waiting time: 0
+Services Time: 2
+Finished time: 5
+Teller: 3
+Account Type: Regular
+
+Customer number: 4
+Arrival time: 4
+Waiting time: 0
+Services Time: 2
+Finished time: 6
+Teller: 2
+Account Type: VIP
+
+Customer number: 5
+Arrival time: 5
+Waiting time: 0
+Services Time: 4
+Finished time: 9
+Teller: 3
+Account Type: VIP
+
+Customer number: 6
+Arrival time: 6
+Waiting time: 0
+Services Time: 3
+Finished time: 9
+Teller: 2
+Account Type: VIP
+
+Customer number: 8
+Arrival time: 8
+Waiting time: 1
+Services Time: 6
+Finished time: 15
+Teller: 1
+Account Type: VIP
+
+Customer number: 9
+Arrival time: 9
+Waiting time: 0
+Services Time: 5
+Finished time: 14
+Teller: 2
+Account Type: VIP
+
+Customer number: 7
+Arrival time: 7
+Waiting time: 2
+Services Time: 1
+Finished time: 10
+Teller: 3
+Account Type: Regular
+
+Customer number: 10
+Arrival time: 10
+Waiting time: 0
+Services Time: 4
+Finished time: 14
+Teller: 3
+Account Type: Regular
+
+Customer number: 14
+Arrival time: 14
+Waiting time: 0
+Services Time: 2
+Finished time: 16
+Teller: 2
+Account Type: VIP
+
+Customer number: 11
+Arrival time: 11
+Waiting time: 3
+Services Time: 2
+Finished time: 16
+Teller: 3
+Account Type: Regular
+
+Customer number: 12
+Arrival time: 12
+Waiting time: 3
+Services Time: 1
+Finished time: 16
+Teller: 1
+Account Type: Regular
+
+Customer number: 13
+Arrival time: 13
+Waiting time: 3
+Services Time: 1
+Finished time: 17
+Teller: 1
+Account Type: Regular
+
+Customer number: 15
+Arrival time: 15
+Waiting time: 1
+Services Time: 8
+Finished time: 24
+Teller: 2
+Account Type: Regular
+
+Customer number: 16
+Arrival time: 16
+Waiting time: 0
+Services Time: 5
+Finished time: 21
+Teller: 3
+Account Type: Regular
+
+Customer number: 17
+Arrival time: 17
+Waiting time: 0
+Services Time: 3
+Finished time: 20
+Teller: 1
+Account Type: Regular
+
+Customer number: 18
+Arrival time: 18
+Waiting time: 2
+Services Time: 7
+Finished time: 27
+Teller: 1
+Account Type: VIP
+
+Customer number: 19
+Arrival time: 19
+Waiting time: 2
+Services Time: 8
+Finished time: 29
+Teller: 3
+Account Type: VIP
+
+Customer number: 21
+Arrival time: 21
+Waiting time: 3
+Services Time: 5
+Finished time: 29
+Teller: 2
+Account Type: VIP
+
+Customer number: 25
+Arrival time: 25
+Waiting time: 2
+Services Time: 4
+Finished time: 31
+Teller: 1
+Account Type: VIP
+
+Customer number: 26
+Arrival time: 26
+Waiting time: 3
+Services Time: 8
+Finished time: 37
+Teller: 2
+Account Type: VIP
+
+Customer number: 20
+Arrival time: 20
+Waiting time: 9
+Services Time: 2
+Finished time: 31
+Teller: 3
+Account Type: Regular
+
+Customer number: 22
+Arrival time: 22
+Waiting time: 9
+Services Time: 8
+Finished time: 39
+Teller: 1
+Account Type: Regular
+
+Customer number: 23
+Arrival time: 23
+Waiting time: 8
+Services Time: 7
+Finished time: 38
+Teller: 3
+Account Type: Regular
+
+Customer number: 32
+Arrival time: 32
+Waiting time: 5
+Services Time: 4
+Finished time: 41
+Teller: 4
+Account Type: VIP
+
+Customer number: 35
+Arrival time: 35
+Waiting time: 2
+Services Time: 5
+Finished time: 42
+Teller: 2
+Account Type: VIP
+
+Customer number: 38
+Arrival time: 38
+Waiting time: 0
+Services Time: 3
+Finished time: 41
+Teller: 3
+Account Type: VIP
+
+Customer number: 39
+Arrival time: 39
+Waiting time: 0
+Services Time: 1
+Finished time: 40
+Teller: 1
+Account Type: VIP
+
+Customer number: 24
+Arrival time: 24
+Waiting time: 16
+Services Time: 3
+Finished time: 43
+Teller: 1
+Account Type: Regular
+
+Customer number: 27
+Arrival time: 27
+Waiting time: 14
+Services Time: 6
+Finished time: 47
+Teller: 3
+Account Type: Regular
+
+Customer number: 28
+Arrival time: 28
+Waiting time: 13
+Services Time: 6
+Finished time: 47
+Teller: 4
+Account Type: Regular
+
+Customer number: 29
+Arrival time: 29
+Waiting time: 13
+Services Time: 7
+Finished time: 49
+Teller: 2
+Account Type: Regular
+
+Customer number: 30
+Arrival time: 30
+Waiting time: 13
+Services Time: 7
+Finished time: 50
+Teller: 1
+Account Type: Regular
+
+Customer number: 44
+Arrival time: 45
+Waiting time: 2
+Services Time: 4
+Finished time: 51
+Teller: 3
+Account Type: VIP
+
+Customer number: 45
+Arrival time: 46
+Waiting time: 1
+Services Time: 4
+Finished time: 51
+Teller: 4
+Account Type: VIP
+
+Customer number: 46
+Arrival time: 47
+Waiting time: 2
+Services Time: 5
+Finished time: 54
+Teller: 2
+Account Type: VIP
+
+Customer number: 47
+Arrival time: 48
+Waiting time: 2
+Services Time: 3
+Finished time: 53
+Teller: 1
+Account Type: VIP
+
+Customer number: 31
+Arrival time: 31
+Waiting time: 20
+Services Time: 6
+Finished time: 57
+Teller: 3
+Account Type: Regular
+
+Customer number: 33
+Arrival time: 33
+Waiting time: 18
+Services Time: 3
+Finished time: 54
+Teller: 4
+Account Type: Regular
+
+Customer number: 34
+Arrival time: 34
+Waiting time: 19
+Services Time: 7
+Finished time: 60
+Teller: 1
+Account Type: Regular
+
+Customer number: 36
+Arrival time: 36
+Waiting time: 18
+Services Time: 8
+Finished time: 62
+Teller: 2
+Account Type: Regular
+
+Customer number: 37
+Arrival time: 37
+Waiting time: 17
+Services Time: 6
+Finished time: 60
+Teller: 4
+Account Type: Regular
+
+Customer number: 40
+Arrival time: 40
+Waiting time: 17
+Services Time: 8
+Finished time: 65
+Teller: 3
+Account Type: Regular
+
+Customer number: 41
+Arrival time: 41
+Waiting time: 19
+Services Time: 3
+Finished time: 63
+Teller: 1
+Account Type: Regular
+
+Customer number: 42
+Arrival time: 42
+Waiting time: 18
+Services Time: 6
+Finished time: 66
+Teller: 4
+Account Type: Regular
+
+Customer number: 43
+Arrival time: 44
+Waiting time: 18
+Services Time: 7
+Finished time: 69
+Teller: 2
+Account Type: Regular
+
+Customer number: 48
+Arrival time: 49
+Waiting time: 14
+Services Time: 6
+Finished time: 69
+Teller: 1
+Account Type: Regular
+
+Customer number: 49
+Arrival time: 50
+Waiting time: 15
+Services Time: 1
+Finished time: 66
+Teller: 3
+Account Type: Regular
+
+************==================*******************
+Teller: 1 Serve: 15
+Teller: 2 Serve: 13
+Teller: 3 Serve: 15
+Teller: 4 Serve: 6

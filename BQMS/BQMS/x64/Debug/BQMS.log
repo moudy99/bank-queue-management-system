@@ -1,0 +1,10 @@
+﻿  BQMS.cpp
+D:\iTi\Projects\OOP\BQMS\BQMS\Customer.h(50,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'BQMS.cpp')
+  
+  Teller.cpp
+D:\iTi\Projects\OOP\BQMS\BQMS\Customer.h(50,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Teller.cpp')
+  
+  Generating Code...
+  BQMS.vcxproj -> D:\iTi\Projects\OOP\BQMS\x64\Debug\BQMS.exe

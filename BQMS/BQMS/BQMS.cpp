@@ -131,8 +131,8 @@ int main() {
     CIB_bank.Start_simulation();
 
 
-
-
+    getch();
+    
     return 0;
 }
 
